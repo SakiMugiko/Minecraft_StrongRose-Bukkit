@@ -1,5 +1,5 @@
 name: StrongRose
-version: 1.0.0
+version: 1.0.1
 main: cn.nyatu.SakiMugi.StrongRose.StrongRose
 api-version: '1.21'
 description: 这可以允许你将凋零玫瑰种植在下界砖或红色下界砖上
